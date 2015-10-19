@@ -58,7 +58,7 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="Binaries\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <Choose>
