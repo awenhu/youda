@@ -1,5 +1,5 @@
 C:\4.demo\github\youda\YoudaTest\bin\Debug\YoudaTest.dll
 C:\4.demo\github\youda\YoudaTest\bin\Debug\YoudaTest.pdb
-C:\4.demo\github\youda\YoudaTest\obj\Debug\YoudaTest.csprojResolveAssemblyReference.cache
 C:\4.demo\github\youda\YoudaTest\obj\Debug\YoudaTest.dll
 C:\4.demo\github\youda\YoudaTest\obj\Debug\YoudaTest.pdb
+C:\4.demo\github\youda\YoudaTest\bin\Debug\Binaries\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
